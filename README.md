@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error in array iteration. The program attempts to calculate the sum of elements in an array but accesses an index beyond the array's bounds, resulting in an ArrayIndexOutOfBoundsException.  The corrected version demonstrates the proper way to iterate through an array to avoid this error.
